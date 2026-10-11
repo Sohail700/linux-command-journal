@@ -1,0 +1,23 @@
+: 1791713761:0;ls
+: 1791713764:0;sohail
+: 1791713768:0;cd linux-command-journal
+: 1791713775:0;cat commands.zsh_history
+: 1791713798:0;cd ~/linux-command-journal\
+gh repo create linux-command-journal --public --source=. --remote=origin
+: 1791713809:0;gh repo create linux-command-journal --public --source=. --remote=origin
+: 1791713813:0;ls
+: 1791713846:0;gh repo create linux-command-journal --private --source=. --remote=origin
+: 1791713856:0;git add README.md\
+git commit -m "Initial Linux command journal"\
+git push -u origin HEAD
+: 1791713881:0;git push -u origin HEAD
+: 1791713900:0;git push -u origin master
+: 1791713941:0;gh api user --jq .login
+: 1791713952:0;gh repo list --limit 100
+: 1791713990:0;git branch -M main
+: 1791713996:0;git remote add origin https://github.com/Sohail700/linux-command-journal.git
+: 1791714000:0;git push -u origin main
+: 1791714014:0;ls
+: 1791714025:0;git status
+: 1791714030:0;git add ,
+: 1791714032:0;git add .
